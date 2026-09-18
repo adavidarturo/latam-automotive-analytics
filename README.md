@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# latam-automotive-analytics
-=======
 # LatAm Automotive Analytics
 
 Analysis of the shift from combustion to electric vehicles across Latin America's largest
@@ -104,4 +101,3 @@ part of what makes the pipeline auditable.
 - Export final tables in wide format (country × year) for a clean Power BI import, with one
   fact table per theme (adoption, imports by origin, forecast) rather than a single merged
   table.
->>>>>>> 63bd3b1 (Vehicle sales performance project in LATAM)
